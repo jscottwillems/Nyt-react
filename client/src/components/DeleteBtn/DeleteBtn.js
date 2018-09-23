@@ -1,10 +1,10 @@
 import React from "react";
 import "./DeleteBtn.css";
 
-const DeletBtn = props => {
+const DeleteBtn = props => {
     <span className="delete-btn" {...props}>
         REMOVE
     </span>
 };
 
-export default DeletBtn;
+export default DeleteBtn;

@@ -1,0 +1,22 @@
+.jumbotron {
+    text-align: center;
+}
+
+.nav-link {
+    display: inline-block;
+}
+
+form {
+    width: 80%;
+    margin: auto;
+}
+
+.results-display, .saved-display {
+    width: 80%;
+    margin: auto;
+}
+
+.results-display, .saved-display h2 {
+    text-align: center;
+    margin-top: 15px;
+}
